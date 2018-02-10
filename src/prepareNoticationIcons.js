@@ -5,27 +5,27 @@ var path = require('path');
 var rootdir = process.argv[2];
 var filestocopy = [
     {
-        "resources/notification/drawable-hdpi/ic_stat_icon.png":
+        "resources/ic_notification/drawable-hdpi/ic_stat_icon.png":
         "platforms/android/res/drawable-hdpi/ic_stat_onesignal_default.png"
     },
     {
-        "resources/notification/drawable-mdpi/ic_stat_icon.png":
+        "resources/ic_notification/drawable-mdpi/ic_stat_icon.png":
         "platforms/android/res/drawable-mdpi/ic_stat_onesignal_default.png"
     },
     {
-        "resources/notification/drawable-xhdpi/ic_stat_icon.png":
+        "resources/ic_notification/drawable-xhdpi/ic_stat_icon.png":
         "platforms/android/res/drawable-xhdpi/ic_stat_onesignal_default.png"
     },
     {
-        "resources/notification/drawable-xxhdpi/ic_stat_icon.png":
+        "resources/ic_notification/drawable-xxhdpi/ic_stat_icon.png":
         "platforms/android/res/drawable-xxhdpi/ic_stat_onesignal_default.png"
     },
     {
-        "resources/notification/drawable-xxxhdpi/ic_stat_icon.png":
+        "resources/ic_notification/drawable-xxxhdpi/ic_stat_icon.png":
         "platforms/android/res/drawable-xxxhdpi/ic_stat_onesignal_default.png"
     },
     {
-        "resources/android/icon/drawable-xxxhdpi-icon.png":
+        "resources/ic_notification/drawable-xxxhdpi/ic_stat_icon.png":
         "platforms/android/res/drawable-xxxhdpi/ic_onesignal_large_icon_default.png"
     }
 ];
