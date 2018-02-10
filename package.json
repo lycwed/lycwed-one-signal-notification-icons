@@ -1,0 +1,25 @@
+{
+  "name": "lycwed-one-signal-notification-icons",
+  "version": "1.0.0",
+  "description": "Cordova plugin helpful to prepare notification icons for one signal.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lycwed/lycwed-one-signal-notification-icons.git"
+  },
+  "keywords": [
+    "cordova",
+    "one",
+    "signal",
+    "notification",
+    "icons"
+  ],
+  "author": "lycwed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lycwed/lycwed-one-signal-notification-icons/issues"
+  },
+  "homepage": "https://github.com/lycwed/lycwed-one-signal-notification-icons#readme"
+}
