@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin id="lycwed-one-signal-notification-icons" version="1.0.0"
+        xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <name>Lycwed One Signal Notification icons</name>
+    <description>Cordova plugin helpful to prepare notification icons for one signal.</description>
+    
+    <license>MIT</license>
+    
+    <keywords>cordova, one signal, notification icons</keywords>
+
+    <repo>https://github.com/lycwed/lycwed-one-signal-notification-icons.git</repo>
+    <issue>https://github.com/lycwed/lycwed-one-signal-notification-icons/issues</issue>
+
+    <hook src="src/prepareNoticationIcons.js" type="after_platform_add" />
+</plugin>
